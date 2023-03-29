@@ -24,8 +24,9 @@ YouTube Music
   
 **App Versions:**  
 YouTube-latest: 18.11.36  
-Music (arm64-v8a): 5.49.54  
+YouTube-stable: 18.11.36  
 Music (arm-v7a): 5.49.54  
+Music (arm64-v8a): 5.49.54  
 
 Install [Vanced Extended MicroG](https://github.com/inotia00/VancedMicroG/releases) (recommended) or [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or YouTube Music  
 
