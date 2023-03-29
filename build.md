@@ -23,7 +23,6 @@ YouTube Music
 - [Other Countries](https://crowdin.com/project/revancedextended)
   
 **App Versions:**  
-YouTube-stable: 18.11.36  
 YouTube-latest: 18.11.36  
 Music (arm64-v8a): 5.49.54  
 Music (arm-v7a): 5.49.54  
