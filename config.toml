@@ -22,6 +22,17 @@ exclusive-patches = false                                                     # 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytsrvx-magisk"
 
+[YouTube-stable-amoled]
+enabled = true
+build-mode = "both"
+allow-alpha-version = true
+excluded-patches = "custom-branding-icon-afn-red custom-branding-name"
+included-patches = "force-premium-heading theme"
+version = "auto"
+exclusive-patches = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+module-prop-name = "ytsarvx-magisk"
+
 [YouTube-latest]
 enabled = true
 build-mode = "both"
