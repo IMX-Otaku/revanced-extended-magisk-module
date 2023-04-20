@@ -36,6 +36,7 @@ ETC
   
 **App Versions:**  
 YouTube-stable-amoled: 18.14.41  
+YouTube-stable: 18.14.41  
 YouTube-latest: 18.16.33  
 Music (arm64-v8a): 5.53.50  
 Music (arm-v7a): 5.53.50  
